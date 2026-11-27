@@ -1,0 +1,23 @@
+11
+101 300 19
+Americano
+102 450 12
+Zinger Burger
+103 250 10
+Loaded Fries
+104 500 20
+Cold Coffee
+105 200 7
+Shawarma
+106 150 15
+Mango MilkShake
+107 350 30
+Lapeta Burger
+108 170 15
+Dates MilkShake
+109 80 50
+Tea
+110 300 21
+Zinger Paratha
+111 400 20
+Zinger Shawarma
